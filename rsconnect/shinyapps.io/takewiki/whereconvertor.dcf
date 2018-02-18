@@ -1,0 +1,12 @@
+name: whereconvertor
+title: whereconvertor
+username:
+account: takewiki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 283650
+bundleId: 1228132
+url: https://takewiki.shinyapps.io/whereconvertor/
+when: 1518925968.36085
+asMultiple: FALSE
+asStatic: FALSE
